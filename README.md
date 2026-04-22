@@ -1,6 +1,7 @@
 # STUDY-TRACKER-SYSTEM
 ---
 The Study Tracker System is a C-based console application created to help students manage their study schedules and track their academic progress. Key features includes starting study sessions using timer, pomodoro, countdown for tracking study hours and being able to see the statistics, also adding, updating and removing a to do list.
+
 ## Features:
 ---
 ![Screenshot 2024-07-10 175453](https://github.com/Sumaiyaanika/STUDY-TRACKER-SYSTEM/assets/174994380/d6148f4d-2b6e-4c8f-9b2a-7f36babb8eae)
