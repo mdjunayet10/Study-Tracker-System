@@ -1,0 +1,30 @@
+Proprietary License
+
+Copyright (c) 2026 Md Junayet. All rights reserved.
+
+This project, including but not limited to its name, concept, design,
+branding, user interface, source code, assets, documentation, screenshots,
+release materials, and software, is the exclusive property of Md Junayet.
+
+This repository is provided publicly only for project information, official
+links, release downloads, documentation, and related public materials.
+
+No license, permission, or ownership rights are granted to any person or
+organization to copy, modify, distribute, sublicense, sell, lease, publish,
+republish, reuse, reproduce, reverse engineer, decompile, disassemble, imitate,
+or create derivative works based on this project, in whole or in part, without
+prior written permission from the copyright owner.
+
+Unauthorized use, copying, redistribution, republication, imitation, cloning,
+commercial use, or derivative use of this project is strictly prohibited.
+
+You may view the contents of this public repository for informational purposes
+only. Any other use requires explicit written permission from Md Junayet.
+
+All trademarks, logos, branding, screenshots, designs, and project materials
+belong to their respective owner. Any unauthorized use may result in legal
+action.
+
+For permission requests, contact the copyright owner.
+
+Copyright (c) 2026 Md Junayet. All rights reserved.
